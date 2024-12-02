@@ -1,2 +1,1 @@
-# regressionanalysis
-analysis for data capstone
+#Regression Analysis Project Report
